@@ -1,0 +1,13 @@
+import { TopLevelDendronConfig } from "../../types/configs/dendronConfig";
+import { DendronConfigEntry, DendronConfigEntryCollection } from "../../types/configs/base";
+import { DendronGlobalConfig } from "../../types/configs/global/global";
+export declare const ENABLE_MERMAID: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_PRETTY_REFS: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_KATEX: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_FM_TITLE: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_NOTE_TITLE_FOR_LINK: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_FRONTMATTER_TAGS: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_HASHES_FOR_FM_TAGS: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_CHILD_LINKS: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const ENABLE_BACK_LINKS: (namespace: TopLevelDendronConfig) => DendronConfigEntry;
+export declare const GLOBAL: DendronConfigEntryCollection<DendronGlobalConfig>;

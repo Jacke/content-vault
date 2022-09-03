@@ -1,0 +1,42 @@
+curl 'https://www.notion.so/api/v3/enqueueTask' \
+  -H 'authority: www.notion.so' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'cookie: NEXT_LOCALE=en-US; notion_experiment_device_id=63cdfe54-a02b-4d15-97d3-ed994a364a3d; logglytrackingsession=78fd0427-4a12-4679-b67f-748dcbedce6e; notion_browser_id=706c5f8e-e882-4ee8-af26-a70f06894419; mutiny.user.token=74559459-aa58-489d-9e84-4d907d9379f7; ajs_anonymous_id=706c5f8ee8824ee8af26a70f06894419; cb_user_id=null; cb_group_id=null; cb_anonymous_id=%2271f6a311-76fe-4292-8aed-cd157d25ce56%22; _gcl_au=1.1.197808388.1656234140; _fbp=fb.1.1656234140841.2007347453; token_v2=52edf3dad3ecd087fec7b262612e5ad8fc0d2df6672019fe12be540d500b4e28a8cb19ace587cc7df73684b84a8f628bfbc0d3852660912dd129926af5bb0548c6ed8192d4e269be5445964f299c; notion_user_id=3f54071c-2d09-4334-b396-562251b35eac; notion_cookie_consent={%22id%22:%2206eb1895-bfe0-4feb-b00e-668cc4a2a287%22%2C%22permission%22:{%22necessary%22:true%2C%22targeting%22:true%2C%22preference%22:true%2C%22performance%22:true}}; notion_users=[%223f54071c-2d09-4334-b396-562251b35eac%22]; mutiny.defaultOptOut=true; mutiny.optOut=; mutiny.optIn=true; _ga=GA1.1.1973201104.1658403459; _mkto_trk=id:414-XMY-838&token:_mch-www.notion.so-1658403458837-85529; notion_check_cookie_consent=false; intercom-session-gpfdrxfd=MEpRVEcyMWxUa3ovdXNnU2NCSXM2bnltT1ovVjlaUDBUUTcrOEtCMjFxYlI1TDNjL05uNExkSHJhVVE1eEZYKy0tVTVyeDJ3NUc4SG9QVzJaNEVRSDkyUT09--8315ede7b307303515012a004bac95dff6fafd87; _ga_9ZJ8CB186L=GS1.1.1660930520.4.1.1660930542.0.0.0; __cf_bm=vPxz8EJrrGlwsj2ULMPrEGHBCEiECm0dr3XlogiXxqo-1660942716-0-Ab/hStesyWds66moffcP+M2ojmBSSkxRyPfQtLt7DTEATqEEc/9KDo0jlX+ewTD4Lk7PL6uy+0VRz5SUEdaGVs8=; notion_locale=en-US/legacy; amp_af43d4=706c5f8ee8824ee8af26a70f06894419.M2Y1NDA3MWMyZDA5NDMzNGIzOTY1NjIyNTFiMzVlYWM=..1garud6pd.1garudbkt.16g.5u.1ce' \
+  -H 'notion-audit-log-platform: web' \
+  -H 'notion-client-version: 23.10.26.4' \
+  -H 'origin: https://www.notion.so' \
+  -H 'referer: https://www.notion.so/sperad0x/Toolbelt-a5bfca8f04cb44d0949bc615be8849de' \
+  -H 'sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36' \
+  -H 'x-notion-active-user-header: 3f54071c-2d09-4334-b396-562251b35eac' \
+  --data-raw '{"task":{"eventName":"exportBlock","request":{"block":{"id":"a5bfca8f-04cb-44d0-949b-c615be8849de","spaceId":"1b544355-ee31-44a8-9c59-86b5631a1f7a"},"recursive":false,"exportOptions":{"exportType":"markdown","timeZone":"Europe/Moscow","locale":"en"}}}}' \
+  --compressed
+
+
+curl 'https://www.notion.so/api/v3/getTasks' \
+  -H 'authority: www.notion.so' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'content-type: application/json' \
+  -H 'cookie: NEXT_LOCALE=en-US; notion_experiment_device_id=63cdfe54-a02b-4d15-97d3-ed994a364a3d; logglytrackingsession=78fd0427-4a12-4679-b67f-748dcbedce6e; notion_browser_id=706c5f8e-e882-4ee8-af26-a70f06894419; mutiny.user.token=74559459-aa58-489d-9e84-4d907d9379f7; ajs_anonymous_id=706c5f8ee8824ee8af26a70f06894419; cb_user_id=null; cb_group_id=null; cb_anonymous_id=%2271f6a311-76fe-4292-8aed-cd157d25ce56%22; _gcl_au=1.1.197808388.1656234140; _fbp=fb.1.1656234140841.2007347453; token_v2=52edf3dad3ecd087fec7b262612e5ad8fc0d2df6672019fe12be540d500b4e28a8cb19ace587cc7df73684b84a8f628bfbc0d3852660912dd129926af5bb0548c6ed8192d4e269be5445964f299c; notion_user_id=3f54071c-2d09-4334-b396-562251b35eac; notion_cookie_consent={%22id%22:%2206eb1895-bfe0-4feb-b00e-668cc4a2a287%22%2C%22permission%22:{%22necessary%22:true%2C%22targeting%22:true%2C%22preference%22:true%2C%22performance%22:true}}; notion_users=[%223f54071c-2d09-4334-b396-562251b35eac%22]; mutiny.defaultOptOut=true; mutiny.optOut=; mutiny.optIn=true; _ga=GA1.1.1973201104.1658403459; _mkto_trk=id:414-XMY-838&token:_mch-www.notion.so-1658403458837-85529; notion_check_cookie_consent=false; intercom-session-gpfdrxfd=MEpRVEcyMWxUa3ovdXNnU2NCSXM2bnltT1ovVjlaUDBUUTcrOEtCMjFxYlI1TDNjL05uNExkSHJhVVE1eEZYKy0tVTVyeDJ3NUc4SG9QVzJaNEVRSDkyUT09--8315ede7b307303515012a004bac95dff6fafd87; _ga_9ZJ8CB186L=GS1.1.1660930520.4.1.1660930542.0.0.0; __cf_bm=vPxz8EJrrGlwsj2ULMPrEGHBCEiECm0dr3XlogiXxqo-1660942716-0-Ab/hStesyWds66moffcP+M2ojmBSSkxRyPfQtLt7DTEATqEEc/9KDo0jlX+ewTD4Lk7PL6uy+0VRz5SUEdaGVs8=; notion_locale=en-US/legacy; amp_af43d4=706c5f8ee8824ee8af26a70f06894419.M2Y1NDA3MWMyZDA5NDMzNGIzOTY1NjIyNTFiMzVlYWM=..1garud6pd.1garueohc.16h.5u.1cf' \
+  -H 'notion-audit-log-platform: web' \
+  -H 'notion-client-version: 23.10.26.4' \
+  -H 'origin: https://www.notion.so' \
+  -H 'referer: https://www.notion.so/sperad0x/Toolbelt-a5bfca8f04cb44d0949bc615be8849de' \
+  -H 'sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36' \
+  -H 'x-notion-active-user-header: 3f54071c-2d09-4334-b396-562251b35eac' \
+  --data-raw '{"taskIds":["7caff240-1619-4473-bb6f-45ca41df2440"]}' \
+  --compressed | fq .results[0].status.exportURL
