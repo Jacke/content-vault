@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: root
+            name: Dendron
     journal:
         dailyDomain: daily
         name: journal
@@ -83,7 +83,6 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
-    siteUrl: https://Jacke.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true

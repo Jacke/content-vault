@@ -33,7 +33,7 @@
       {
         "fsPath": ".",
         "selfContained": true,
-        "name": "root"
+        "name": "Dendron"
       }
     ],
     "journal": {
@@ -102,7 +102,6 @@
     "automaticallyShowPreview": false
   },
   "publishing": {
-    "siteUrl": "https://Jacke.github.io",
     "enableFMTitle": true,
     "enableNoteTitleForLink": true,
     "enableMermaid": true,
@@ -130,6 +129,7 @@
     "enableRandomlyColoredTags": true,
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
+    "siteUrl": "localhost:3000",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }

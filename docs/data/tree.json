@@ -1,17 +1,38 @@
 {
   "roots": [
     {
-      "key": "p6jlw88h4ajzgk6t3to1g82",
-      "title": "Root",
+      "key": "root",
+      "title": "root",
       "icon": null,
       "hasTitleNumberOutlined": false,
-      "vaultName": "root",
+      "vaultName": "Dendron",
       "navExclude": false,
-      "children": []
+      "children": [
+        {
+          "key": "gd4rx31tt5bvnst9i9eqopk",
+          "title": "Content",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "c1bs7wsjfbhb0zipaywqv1",
+          "title": "Tutorial",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": []
+        }
+      ]
     }
   ],
   "child2parent": {
     "403": null,
-    "p6jlw88h4ajzgk6t3to1g82": null
+    "root": null,
+    "c1bs7wsjfbhb0zipaywqv1": "root",
+    "gd4rx31tt5bvnst9i9eqopk": "root"
   }
 }
