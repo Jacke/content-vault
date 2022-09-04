@@ -18,6 +18,71 @@
           "children": []
         },
         {
+          "key": "hqzwb36ii5mgxy2xww9yqy5",
+          "title": "Software Development",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "sw82ephvt5s6zzvdd2fe24t",
+              "title": "Algorithms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "uoeczozh90dieh7v1eqypr0",
+                  "title": "Leetcode",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "t3lxqot83igg0xe8n038uru",
+              "title": "Architecture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "7rugi1ph1miloq2z3f6hzxs",
+              "title": "Data Structure",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "k21ch9npqi17e1hmm491o81",
+              "title": "Interview",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kmzx4ls8g24x1vkb7we1hvr",
+              "title": "System Design",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
           "key": "c1bs7wsjfbhb0zipaywqv1",
           "title": "Tutorial",
           "icon": null,
@@ -33,6 +98,13 @@
     "403": null,
     "root": null,
     "c1bs7wsjfbhb0zipaywqv1": "root",
+    "hqzwb36ii5mgxy2xww9yqy5": "root",
+    "kmzx4ls8g24x1vkb7we1hvr": "hqzwb36ii5mgxy2xww9yqy5",
+    "k21ch9npqi17e1hmm491o81": "hqzwb36ii5mgxy2xww9yqy5",
+    "7rugi1ph1miloq2z3f6hzxs": "hqzwb36ii5mgxy2xww9yqy5",
+    "t3lxqot83igg0xe8n038uru": "hqzwb36ii5mgxy2xww9yqy5",
+    "sw82ephvt5s6zzvdd2fe24t": "hqzwb36ii5mgxy2xww9yqy5",
+    "uoeczozh90dieh7v1eqypr0": "sw82ephvt5s6zzvdd2fe24t",
     "gd4rx31tt5bvnst9i9eqopk": "root"
   }
 }

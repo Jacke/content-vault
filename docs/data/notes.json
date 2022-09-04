@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1662238491710,
-      "created": 1662238491710,
+      "updated": 1662314526216,
+      "created": 1662314526216,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -42,6 +42,7 @@
       "anchors": {},
       "children": [
         "gd4rx31tt5bvnst9i9eqopk",
+        "hqzwb36ii5mgxy2xww9yqy5",
         "c1bs7wsjfbhb0zipaywqv1"
       ],
       "parent": null,
@@ -203,6 +204,391 @@
       "parent": "root",
       "data": {}
     },
+    "hqzwb36ii5mgxy2xww9yqy5": {
+      "id": "hqzwb36ii5mgxy2xww9yqy5",
+      "title": "Software Development",
+      "desc": "",
+      "updated": 1662306868027,
+      "created": 1662306851394,
+      "custom": {},
+      "fname": "software_dev",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "426fbe90d8359e8b2eab271507e9702d",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "sw82ephvt5s6zzvdd2fe24t",
+        "t3lxqot83igg0xe8n038uru",
+        "7rugi1ph1miloq2z3f6hzxs",
+        "k21ch9npqi17e1hmm491o81",
+        "kmzx4ls8g24x1vkb7we1hvr"
+      ],
+      "parent": "root",
+      "data": {}
+    },
+    "kmzx4ls8g24x1vkb7we1hvr": {
+      "id": "kmzx4ls8g24x1vkb7we1hvr",
+      "title": "System Design",
+      "desc": "",
+      "updated": 1662310742119,
+      "created": 1662310707391,
+      "custom": {},
+      "fname": "software_dev.system_design",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "d0945654e7e1a00ed42cd5430d1b7d68",
+      "links": [],
+      "anchors": {
+        "videos": {
+          "type": "header",
+          "text": "Videos",
+          "value": "videos",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "courses": {
+          "type": "header",
+          "text": "Courses",
+          "value": "courses",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "questions": {
+          "type": "header",
+          "text": "Questions",
+          "value": "questions",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hqzwb36ii5mgxy2xww9yqy5",
+      "data": {}
+    },
+    "k21ch9npqi17e1hmm491o81": {
+      "id": "k21ch9npqi17e1hmm491o81",
+      "title": "Interview",
+      "desc": "",
+      "updated": 1662310823184,
+      "created": 1662310823184,
+      "custom": {},
+      "fname": "software_dev.interview",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "6fc8c5d2c5007155b253eac78a2cc0b0",
+      "links": [],
+      "anchors": {
+        "coding-interview": {
+          "type": "header",
+          "text": "Coding interview",
+          "value": "coding-interview",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "passing-the-interview": {
+          "type": "header",
+          "text": "Passing the Interview",
+          "value": "passing-the-interview",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "courses": {
+          "type": "header",
+          "text": "Courses",
+          "value": "courses",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "java": {
+          "type": "header",
+          "text": "Java",
+          "value": "java",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "unsorted": {
+          "type": "header",
+          "text": "Unsorted",
+          "value": "unsorted",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "cheatsheets": {
+          "type": "header",
+          "text": "Cheatsheets",
+          "value": "cheatsheets",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "general-algo": {
+          "type": "header",
+          "text": "General algo",
+          "value": "general-algo",
+          "line": 89,
+          "column": 0,
+          "depth": 2
+        },
+        "language-specific-resources": {
+          "type": "header",
+          "text": "Language specific resources",
+          "value": "language-specific-resources",
+          "line": 105,
+          "column": 0,
+          "depth": 2
+        },
+        "js": {
+          "type": "header",
+          "text": "JS",
+          "value": "js",
+          "line": 107,
+          "column": 0,
+          "depth": 3
+        },
+        "scala": {
+          "type": "header",
+          "text": "Scala",
+          "value": "scala",
+          "line": 113,
+          "column": 0,
+          "depth": 3
+        },
+        "visualization": {
+          "type": "header",
+          "text": "Visualization",
+          "value": "visualization",
+          "line": 131,
+          "column": 0,
+          "depth": 2
+        },
+        "interview-general": {
+          "type": "header",
+          "text": "Interview General",
+          "value": "interview-general",
+          "line": 137,
+          "column": 0,
+          "depth": 1
+        },
+        "behavioural-interview": {
+          "type": "header",
+          "text": "Behavioural interview",
+          "value": "behavioural-interview",
+          "line": 139,
+          "column": 0,
+          "depth": 2
+        },
+        "unsorted-1": {
+          "type": "header",
+          "text": "UNSORTED",
+          "value": "unsorted-1",
+          "line": 143,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hqzwb36ii5mgxy2xww9yqy5",
+      "data": {}
+    },
+    "7rugi1ph1miloq2z3f6hzxs": {
+      "id": "7rugi1ph1miloq2z3f6hzxs",
+      "title": "Data Structure",
+      "desc": "",
+      "updated": 1662310878015,
+      "created": 1662310869647,
+      "custom": {},
+      "fname": "software_dev.data_structure",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "d46b160d1f6236c661cf81ce28a70a52",
+      "links": [],
+      "anchors": {
+        "packing": {
+          "type": "header",
+          "text": "Packing",
+          "value": "packing",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hqzwb36ii5mgxy2xww9yqy5",
+      "data": {}
+    },
+    "t3lxqot83igg0xe8n038uru": {
+      "id": "t3lxqot83igg0xe8n038uru",
+      "title": "Architecture",
+      "desc": "",
+      "updated": 1662310790639,
+      "created": 1662310769969,
+      "custom": {},
+      "fname": "software_dev.architecture",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "2ee30fe8ce464cf58bb24a69ac427784",
+      "links": [],
+      "anchors": {
+        "design-patterns": {
+          "type": "header",
+          "text": "Design Patterns",
+          "value": "design-patterns",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "javascript": {
+          "type": "header",
+          "text": "Javascript",
+          "value": "javascript",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "data-mesh": {
+          "type": "header",
+          "text": "Data Mesh",
+          "value": "data-mesh",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hqzwb36ii5mgxy2xww9yqy5",
+      "data": {}
+    },
+    "sw82ephvt5s6zzvdd2fe24t": {
+      "id": "sw82ephvt5s6zzvdd2fe24t",
+      "title": "Algorithms",
+      "desc": "",
+      "updated": 1662307276090,
+      "created": 1662306888854,
+      "custom": {},
+      "fname": "software_dev.algorithms",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "dae47b24725378a729e89a5c0e5ed378",
+      "links": [],
+      "anchors": {
+        "abstract": {
+          "type": "header",
+          "text": "Abstract",
+          "value": "abstract",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "visualization": {
+          "type": "header",
+          "text": "Visualization",
+          "value": "visualization",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "uoeczozh90dieh7v1eqypr0"
+      ],
+      "parent": "hqzwb36ii5mgxy2xww9yqy5",
+      "data": {}
+    },
+    "uoeczozh90dieh7v1eqypr0": {
+      "id": "uoeczozh90dieh7v1eqypr0",
+      "title": "Leetcode",
+      "desc": "",
+      "updated": 1662310936220,
+      "created": 1662310909607,
+      "custom": {},
+      "fname": "software_dev.algorithms.leetcode",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "1f85987d64527abd10d6fc17a14eb84c",
+      "links": [],
+      "anchors": {
+        "leetcode-picks": {
+          "type": "header",
+          "text": "Leetcode Picks",
+          "value": "leetcode-picks",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "constant-learning": {
+          "type": "header",
+          "text": "CONSTANT LEARNING",
+          "value": "constant-learning",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "concepts": {
+          "type": "header",
+          "text": "Concepts",
+          "value": "concepts",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "binary-search": {
+          "type": "header",
+          "text": "Binary search",
+          "value": "binary-search",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "challenges": {
+          "type": "header",
+          "text": "Challenges",
+          "value": "challenges",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sw82ephvt5s6zzvdd2fe24t",
+      "data": {}
+    },
     "gd4rx31tt5bvnst9i9eqopk": {
       "id": "gd4rx31tt5bvnst9i9eqopk",
       "title": "Content",
@@ -248,6 +634,7 @@
       "anchors": {},
       "children": [
         "gd4rx31tt5bvnst9i9eqopk",
+        "hqzwb36ii5mgxy2xww9yqy5",
         "c1bs7wsjfbhb0zipaywqv1"
       ],
       "parent": null,
@@ -277,6 +664,7 @@
     "anchors": {},
     "children": [
       "gd4rx31tt5bvnst9i9eqopk",
+      "hqzwb36ii5mgxy2xww9yqy5",
       "c1bs7wsjfbhb0zipaywqv1"
     ],
     "parent": null,

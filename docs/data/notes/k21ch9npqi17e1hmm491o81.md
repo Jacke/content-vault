@@ -1,4 +1,5 @@
-# Algos / Coding interview
+
+# Coding interview
 
 ## Passing the Interview
 

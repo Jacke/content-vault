@@ -1,4 +1,12 @@
-# Leetcode
+---
+id: uoeczozh90dieh7v1eqypr0
+title: Leetcode
+desc: ''
+updated: 1662310936220
+created: 1662310909607
+---
+
+# Leetcode Picks
 
 [Explore - LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 

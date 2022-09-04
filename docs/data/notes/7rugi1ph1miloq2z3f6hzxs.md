@@ -1,4 +1,3 @@
-# Data Structure
 
 ## Packing
 

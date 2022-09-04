@@ -1,4 +1,10 @@
-# Arch (Software)
+---
+id: t3lxqot83igg0xe8n038uru
+title: Architecture
+desc: ''
+updated: 1662310790639
+created: 1662310769969
+---
 
 ## Design Patterns
 
