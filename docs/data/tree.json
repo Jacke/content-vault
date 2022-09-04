@@ -18,6 +18,25 @@
           "children": []
         },
         {
+          "key": "wzr7111ovneaznrvxsdl5ge",
+          "title": "Hardware",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "llyr89k24wyonapc1r45lxu",
+              "title": "Architecture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
           "key": "hqzwb36ii5mgxy2xww9yqy5",
           "title": "Software Development",
           "icon": null,
@@ -97,6 +116,8 @@
   "child2parent": {
     "403": null,
     "root": null,
+    "wzr7111ovneaznrvxsdl5ge": "root",
+    "llyr89k24wyonapc1r45lxu": "wzr7111ovneaznrvxsdl5ge",
     "c1bs7wsjfbhb0zipaywqv1": "root",
     "hqzwb36ii5mgxy2xww9yqy5": "root",
     "kmzx4ls8g24x1vkb7we1hvr": "hqzwb36ii5mgxy2xww9yqy5",

@@ -102,6 +102,7 @@
     "automaticallyShowPreview": false
   },
   "publishing": {
+    "siteUrl": "https://content.iamjacke.com",
     "enableFMTitle": true,
     "enableNoteTitleForLink": true,
     "enableMermaid": true,
@@ -118,10 +119,11 @@
       "description": "Personal Knowledge Space"
     },
     "github": {
-      "enableEditLink": true,
+      "enableEditLink": false,
       "editLinkText": "Edit this page on GitHub",
       "editBranch": "main",
-      "editViewMode": "tree"
+      "editViewMode": "tree",
+      "cname": "content.iamjacke.com"
     },
     "enableSiteLastModified": true,
     "enableFrontmatterTags": true,
@@ -129,7 +131,6 @@
     "enableRandomlyColoredTags": true,
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
-    "siteUrl": "localhost:3000",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }

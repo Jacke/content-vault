@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1662314526216,
-      "created": 1662314526216,
+      "updated": 1662315653079,
+      "created": 1662315653079,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -43,9 +43,63 @@
       "children": [
         "gd4rx31tt5bvnst9i9eqopk",
         "hqzwb36ii5mgxy2xww9yqy5",
-        "c1bs7wsjfbhb0zipaywqv1"
+        "c1bs7wsjfbhb0zipaywqv1",
+        "wzr7111ovneaznrvxsdl5ge"
       ],
       "parent": null,
+      "data": {}
+    },
+    "wzr7111ovneaznrvxsdl5ge": {
+      "fname": "hardware",
+      "stub": true,
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1662315652649,
+      "created": 1662315652649,
+      "id": "wzr7111ovneaznrvxsdl5ge",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "llyr89k24wyonapc1r45lxu"
+      ],
+      "parent": "root",
+      "data": {},
+      "title": "Hardware"
+    },
+    "llyr89k24wyonapc1r45lxu": {
+      "id": "llyr89k24wyonapc1r45lxu",
+      "title": "Architecture",
+      "desc": "",
+      "updated": 1662314944162,
+      "created": 1662314944162,
+      "custom": {},
+      "fname": "hardware.architecture",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron"
+      },
+      "contentHash": "97e2473781c124d51f64224f7a9f3bfe",
+      "links": [],
+      "anchors": {
+        "consoles": {
+          "type": "header",
+          "text": "Consoles",
+          "value": "consoles",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wzr7111ovneaznrvxsdl5ge",
       "data": {}
     },
     "c1bs7wsjfbhb0zipaywqv1": {
@@ -415,7 +469,7 @@
       "id": "7rugi1ph1miloq2z3f6hzxs",
       "title": "Data Structure",
       "desc": "",
-      "updated": 1662310878015,
+      "updated": 1662314904047,
       "created": 1662310869647,
       "custom": {},
       "fname": "software_dev.data_structure",
@@ -425,14 +479,22 @@
         "selfContained": true,
         "name": "Dendron"
       },
-      "contentHash": "d46b160d1f6236c661cf81ce28a70a52",
+      "contentHash": "5bd429f7cfc45381a568bb90a73d2851",
       "links": [],
       "anchors": {
+        "floating-points": {
+          "type": "header",
+          "text": "Floating points",
+          "value": "floating-points",
+          "line": 8,
+          "column": 0,
+          "depth": 3
+        },
         "packing": {
           "type": "header",
           "text": "Packing",
           "value": "packing",
-          "line": 8,
+          "line": 14,
           "column": 0,
           "depth": 2
         }
@@ -635,7 +697,8 @@
       "children": [
         "gd4rx31tt5bvnst9i9eqopk",
         "hqzwb36ii5mgxy2xww9yqy5",
-        "c1bs7wsjfbhb0zipaywqv1"
+        "c1bs7wsjfbhb0zipaywqv1",
+        "wzr7111ovneaznrvxsdl5ge"
       ],
       "parent": null,
       "data": {},
@@ -665,7 +728,8 @@
     "children": [
       "gd4rx31tt5bvnst9i9eqopk",
       "hqzwb36ii5mgxy2xww9yqy5",
-      "c1bs7wsjfbhb0zipaywqv1"
+      "c1bs7wsjfbhb0zipaywqv1",
+      "wzr7111ovneaznrvxsdl5ge"
     ],
     "parent": null,
     "data": {},
