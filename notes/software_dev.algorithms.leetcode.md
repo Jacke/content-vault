@@ -2,7 +2,7 @@
 id: uoeczozh90dieh7v1eqypr0
 title: Leetcode
 desc: ''
-updated: 1662310936220
+updated: 1662395494106
 created: 1662310909607
 ---
 
@@ -11,6 +11,21 @@ created: 1662310909607
 [Explore - LeetCode](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 
 [Explore - LeetCode](https://leetcode.com/explore/interview/card/coding-interview-strategy/)
+
+
+# Leetcode & Kaggle
+
+[Therapy for Leetcode Warriors](https://leetcodetherapy.com/)
+
+# LeetCode
+
+[Mock Interview - LeetCode](https://leetcode.com/interview/)
+
+# HackerRank
+
+# Kaggle
+
+[Titanic classifier - 0.7799](https://www.kaggle.com/shlezinger/titanic-classifier-0-7799)
 
 ## CONSTANT LEARNING
 

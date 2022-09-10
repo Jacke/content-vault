@@ -2,11 +2,15 @@
 id: k21ch9npqi17e1hmm491o81
 title: Interview
 desc: ''
-updated: 1662310823184
+updated: 1662574273500
 created: 1662310823184
 ---
 
 # Coding interview
+
+## Salary negotiation
+
+[Ten rules for negotiating a job offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 ## Passing the Interview
 

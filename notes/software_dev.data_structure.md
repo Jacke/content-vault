@@ -2,10 +2,13 @@
 id: 7rugi1ph1miloq2z3f6hzxs
 title: Data Structure
 desc: ''
-updated: 1662318393838
+updated: 1662847245952
 created: 1662310869647
 ---
 
+## Course
+
+[6.851: Advanced Data Structures (Spring'21)](https://courses.csail.mit.edu/6.851/spring21/lectures/)
 
 ### Floating points
 
