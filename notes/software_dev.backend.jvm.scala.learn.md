@@ -1,4 +1,12 @@
-# FP Books
+---
+id: n0dlszh240law45jq2zdszz
+title: Learn
+desc: ''
+updated: 1663422768895
+created: 1663422765646
+---
+
+# FP Learn
 
 [Foundations of Functional Programming - Wikiversity](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming)
 

@@ -1,3 +1,11 @@
+---
+id: c34cy1l1slj9wyuiudvwzh9
+title: Openssl
+desc: ''
+updated: 1663422501886
+created: 1663422490593
+---
+
 # Learn the OpenSSL // Own CA
 
 ## Goal
@@ -96,5 +104,4 @@ https://github.com/bahlo/mapdns/blob/main/main.go
 https://github.com/miekg/dns
 https://github.com/mattn/tailscale-systray?utm_source=Tailscale+Newsletter&utm_campaign=a73def24ca-EMAIL_CAMPAIGN_2020_10_06_12_18_COPY_01&utm_medium=email&utm_term=0_0b42c45af3-a73def24ca-438431774
 https://github.com/davidsbond/terraform-provider-tailscale/releases/tag/v0.4.0?utm_source=Tailscale+Newsletter&utm_campaign=a73def24ca-EMAIL_CAMPAIGN_2020_10_06_12_18_COPY_01&utm_medium=email&utm_term=0_0b42c45af3-a73def24ca-438431774
-
 ```

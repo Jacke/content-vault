@@ -1,4 +1,12 @@
-# World Interaction
+---
+id: z2cblkjfmm774lf1uadn21k
+title: Interaction
+desc: ''
+updated: 1663422721259
+created: 1663422715307
+---
+
+# Interaction
 
 ## Ask questions
 

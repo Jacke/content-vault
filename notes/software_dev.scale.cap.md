@@ -1,3 +1,11 @@
+---
+id: yktscz4yey0oytqdphvuhfj
+title: Cap
+desc: ''
+updated: 1663099394252
+created: 1663099394252
+---
+
 # CAP Theorem
 
 # What is CAP theorem?

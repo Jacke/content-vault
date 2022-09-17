@@ -2,7 +2,7 @@
 id: d80g2rvztcw1na1n2as6onb
 title: Streams
 desc: ''
-updated: 1662573892311
+updated: 1663422434684
 created: 1662573888445
 ---
 
@@ -47,3 +47,13 @@ created: 1662573888445
 [https://www.youtube.com/watch?v=TCJdc9SYwlQ](https://www.youtube.com/watch?v=TCJdc9SYwlQ)
 
 [https://www.youtube.com/watch?v=RzEiCguFZiY](https://www.youtube.com/watch?v=RzEiCguFZiY)
+
+# Fink & Projectifi
+
+[streaming-with-flink/examples-scala](https://github.com/streaming-with-flink/examples-scala)
+
+[apache/flink](https://github.com/apache/flink/tree/master/flink-examples)
+
+[phatak-dev/flink-examples](https://github.com/phatak-dev/flink-examples/blob/master/src/main/scala/com/madhukaraphatak/flink/streaming/examples/WindowAnatomy.scala)
+
+[ProjectiFi - Personal Finance Planning and Simulation for Financial Independence (FI)](https://projectifi.io/?ref=hn&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)

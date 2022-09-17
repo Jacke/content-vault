@@ -2,11 +2,13 @@
 id: sw82ephvt5s6zzvdd2fe24t
 title: Algorithms
 desc: ''
-updated: 1662573040902
+updated: 1663422410442
 created: 1662306888854
 ---
 
-# How it works?
+## Course
+
+[CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html)
 
 ## Algorithms
 
@@ -23,3 +25,15 @@ created: 1662306888854
 ## Visualization
 
 [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
+
+# Distributed systems
+
+## Consensus algorithms
+
+[Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
+
+# Encoding algorithms
+
+## H264
+
+[H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/)
