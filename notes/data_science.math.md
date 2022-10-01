@@ -2,7 +2,7 @@
 id: copjdg11oxwgzl66bleg81g
 title: Math
 desc: ''
-updated: 1662743759290
+updated: 1664054494643
 created: 1662399449806
 ---
 
@@ -19,3 +19,5 @@ created: 1662399449806
 [Explorable Physics](https://landgreen.github.io/physics/index.html)
 
 [So You Want to Learn Physics... - Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+
+[Explained from First Principles](https://explained-from-first-principles.com/)

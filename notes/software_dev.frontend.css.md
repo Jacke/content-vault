@@ -2,9 +2,12 @@
 id: 3al5whyypz1bt1ff1a0hyc7
 title: CSS
 desc: ''
-updated: 1663099498490
+updated: 1664392499569
 created: 1662399913454
 ---
+
+## Tailwind
+[[design#tailwind]]
 
 ## Tips
 
