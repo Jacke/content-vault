@@ -1,0 +1,142 @@
+<h1 id="fail-fast"><a aria-hidden="true" class="anchor-heading icon-link" href="#fail-fast"></a>Fail Fast</h1>
+<h1 id="fail-fast-1"><a aria-hidden="true" class="anchor-heading icon-link" href="#fail-fast-1"></a>Fail fast</h1>
+<h2 id="contents"><a aria-hidden="true" class="anchor-heading icon-link" href="#contents"></a>Contents</h2>
+<ul>
+<li><a href="#fail-fast">Fail fast</a>
+<ul>
+<li><a href="#contents">Contents</a></li>
+<li><a href="#basic-idea">Basic idea</a></li>
+<li><a href="#general-tips">General tips</a></li>
+<li><a href="#architecture-design-and-code">Architecture, design and code</a></li>
+<li><a href="#development-process">Development process</a>
+<ul>
+<li><a href="#tracer-bullets-and-prototypes">Tracer bullets and prototypes</a></li>
+</ul>
+</li>
+<li><a href="#people">People</a></li>
+<li><a href="#resources">Resources</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="basic-idea"><a aria-hidden="true" class="anchor-heading icon-link" href="#basic-idea"></a>Basic idea</h2>
+<p>If your approach is going to fail, you want to realize that as soon as possible</p>
+<ul>
+<li>You want to run into problems when it's still cheap and easy to fix them or correct course</li>
+<li>It doesn't make sense to invest a lot of effort into something that isn't going to work anyway</li>
+</ul>
+<p>Basically, it’s about <strong>making the feedback loop as short as possible</strong> so you can quickly abandon things that won't work without wasting more effort on them</p>
+<p>If your feedback loop is short enough, the process of <strong>trying things and learning from mistakes</strong> can actually be a lot more effective than trying to get it right immediately, because you gain a lot of knowledge and experience along the way. See also <a href="Pragmatism-imperfectionism.md#consider-going-for-imperfect-action-now-instead-of-possibly-perfect-action-in-the-future">Pragmatism and imperfectionism - Consider going for imperfect action now instead of possibly perfect action in the future</a></p>
+<p>All of this also means that, when trying to solve a problem, it can be a lot more effective to focus on <strong>reducing the length of your feedback loop first</strong>. If your current approach requires you to spend a lot of time and effort before you can validate your solution, the actual problem you should be solving is how to shorten your feedback loop. See also <a href="https://uxmag.com/articles/you-are-solving-the-wrong-problem">You Are Solving The Wrong Problem</a></p>
+<h2 id="general-tips"><a aria-hidden="true" class="anchor-heading icon-link" href="#general-tips"></a>General tips</h2>
+<ul>
+<li>Identify your feedback loops and check if they can be shortened
+<ul>
+<li>Feedback can be related to code quality, functionality, customer satisfaction, product-market fit, ...</li>
+</ul>
+</li>
+<li>Ask yourself: "What is the simplest incarnation of my idea that allows me to validate whether it will work?"
+<ul>
+<li>Could be as simple as a sketch on a napkin</li>
+</ul>
+</li>
+<li>Split big problems into small steps that allow you to verify that you're on the right track after each step</li>
+<li>Tackle risky or uncertain parts as early as possible</li>
+<li>Be proactive about asking for feedback
+<ul>
+<li>This can be as simple as announcing something you're about to do, which gives people a chance to stop you or suggest an alternative approach (this is usually also faster than asking and waiting for explicit permission)
+<ul>
+<li>"Do whatever you want, but do it loudly" (from <a href="https://hackernoon.com/three-growth-strategies-for-individual-contributors-kv4q3zgt">Three Growth Strategies for Individual Contributors</a>)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Make sure that you know how to check if a task is "done" and if it solved the problem you wanted to solve</li>
+</ul>
+<h2 id="architecture-design-and-code"><a aria-hidden="true" class="anchor-heading icon-link" href="#architecture-design-and-code"></a>Architecture, design and code</h2>
+<ul>
+<li>If the problem you're solving requires a non-trivial approach, discuss it with a colleague before actually fully implementing it
+<ul>
+<li>You don't want to find out during code review that you need to throw most of your code away because your approach won't fit in with the rest of the system or you should have leveraged something that already existed</li>
+<li>Fifteen minutes of discussion can prevent days of wasted development effort</li>
+</ul>
+</li>
+<li>Within the code itself, put checks as early as possible in the flow so your program doesn't do useless work</li>
+<li>When considering a new piece of technology, try to build a proof of concept with it that shows you if it performs well under the kind of load you foresee
+<ul>
+<li>This can also force you to consult the technology's documentation while creating the proof of concept, giving you an idea of how good that documentation is</li>
+</ul>
+</li>
+<li>When building fault-tolerant systems, it can make sense to deliberately trigger faults at random, even up in production, so any problem with fault tolerance surfaces sooner rather than later
+<ul>
+<li>See also <a href="../architecture-design/Architectural-fitness-functions.md">Architectural fitness functions</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="development-process"><a aria-hidden="true" class="anchor-heading icon-link" href="#development-process"></a>Development process</h2>
+<ul>
+<li>Set up your development environment so it immediately alerts you of syntax errors, violations of coding style convention, code that is likely to have unintended effects, ...
+<ul>
+<li>You don't want to waste your energy and your colleagues' energy by identifying, discussing and fixing these through code reviews</li>
+<li>See also <a href="../processes-techniques/Static-analysis.md">Static analysis</a></li>
+</ul>
+</li>
+<li>Fast automated tests can notify you of a bug in your code while you are in the middle of working on it, rather than having to switch contexts to fix it once the bug is found during code review or (even worse) after deployment</li>
+<li>Monitoring for errors on a shared dev environment can help to find bugs before they are deployed to production</li>
+<li>If requirements are unclear, clarify them with someone or make a quick small POC and validate that with someone</li>
+<li>New tools or processes: first set up something simple and check if the added value is what you expected it to be, only then invest in improving
+<ul>
+<li>Works a lot better than trying to set up something "perfect" immediately</li>
+</ul>
+</li>
+</ul>
+<h3 id="tracer-bullets-and-prototypes"><a aria-hidden="true" class="anchor-heading icon-link" href="#tracer-bullets-and-prototypes"></a>Tracer bullets and prototypes</h3>
+<p>Both can help you to get early customer feedback, as well as feedback on some technical aspects of the system</p>
+<p><strong>Tracer bullets:</strong> take a requirement and build an initial version of the entire system that fulfills that requirement</p>
+<ul>
+<li>Can be used to get feedback from the customers</li>
+<li>The result should be a part of the skeleton for the final application
+<ul>
+<li>"Lean but complete"</li>
+<li>Already includes all necessary components, including automated tests, build pipelines, ...</li>
+<li>Sets up a structure for development team to work in (and allows to correct course if that structure is not working)</li>
+</ul>
+</li>
+</ul>
+<p><strong>Prototypes:</strong> build something disposable to explore and validate a specific aspect of the final system</p>
+<ul>
+<li>Useful for unproven or experimental parts, or parts that are absolutely critical to the final system</li>
+<li>Things you could prototype: new functionality, user interface design, interaction with third-party tools or components, ...</li>
+<li>Disposable: throwaway code, style and code quality don't matter, completeness doesn't matter
+<ul>
+<li>The goal is to learn, not to build something useful</li>
+<li>Prototype code should never be deployed</li>
+</ul>
+</li>
+<li>Doesn't have to be code!
+<ul>
+<li><strong>Paper prototypes</strong> can be very useful for testing user interfaces</li>
+<li>You can prototype an idea for an automated process by executing the process manually and validating the value the process brings</li>
+<li>When analyzing product-market fit for a startup, it could even make sense to do a small-scale "launch" where part of the end-to-end process is taken care of by humans instead of by software</li>
+</ul>
+</li>
+</ul>
+<h2 id="people"><a aria-hidden="true" class="anchor-heading icon-link" href="#people"></a>People</h2>
+<ul>
+<li>If you notice tension in the room, discuss it explicitly before it grows too big to handle</li>
+<li>If something doesn't sit well with you, bring it up before it grows into a huge source of worry or frustration
+<ul>
+<li>Plenty of people have quit their jobs over issues that could have easily been solved if they would have been brought up early enough</li>
+</ul>
+</li>
+</ul>
+<h2 id="resources"><a aria-hidden="true" class="anchor-heading icon-link" href="#resources"></a>Resources</h2>
+<ul>
+<li><a href="https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791">Inefficient Efficiency</a></li>
+<li><a href="https://uxmag.com/articles/you-are-solving-the-wrong-problem">You Are Solving The Wrong Problem</a></li>
+<li><a href="https://medium.com/swlh/3-problems-to-stop-looking-for-in-code-reviews-981bb169ba8b">3 Problems to Stop Looking For in Code Reviews</a></li>
+<li>The Pragmatic Programmer (book by Andrew Hunt and David Thomas) (<a href="https://github.com/HugoMatilla/The-Pragmatic-Programmer">summary</a>)</li>
+<li><a href="https://hackernoon.com/three-growth-strategies-for-individual-contributors-kv4q3zgt">Three Growth Strategies for Individual Contributors</a></li>
+<li><a href="https://amanjain.substack.com/p/how-to-validate-your-startup-idea">How to validate your startup idea quickly</a></li>
+<li><a href="https://web.archive.org/web/20210925031806/https://briandavidhall.com/the-painted-door-test/">The painted door test</a></li>
+<li><a href="https://www.simpleusability.com/inspiration/2018/08/wizard-of-oz-testing-a-method-of-testing-a-system-that-does-not-yet-exist/">Wizard of Oz testing – a method of testing a system that does not yet exist.</a></li>
+</ul>
