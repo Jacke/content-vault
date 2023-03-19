@@ -2,13 +2,16 @@
 id: 87gxpbo9z9nig8qg07ud7i6
 title: Games
 desc: ''
-updated: 1662565276449
+updated: 1676055413296
 created: 1662399621274
 ---
 
 ## Archives
 
 [Valve Archive](https://valvearchive.com/)
+
+## History
+[History of Video Games](https://ultimatehistoryvideogames.jimdofree.com/)
 
 ## Titles
 

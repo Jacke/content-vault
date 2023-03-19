@@ -2,7 +2,7 @@
 id: vopa3fjqdrvoi06csdfu2xe
 title: Business
 desc: ''
-updated: 1662558395605
+updated: 1666523238483
 created: 1662399554484
 ---
 
@@ -19,3 +19,17 @@ created: 1662399554484
 5. Продукты, которые делают их лучше.
 
 [YC Startup Library | Y Combinator](https://www.ycombinator.com/library)
+
+# Accounting
+[Accounting for Developers Part III: Building a Lending Marketplace](https://www.moderntreasury.com/journal/accounting-for-developers-part-iii)
+
+https://www.investopedia.com/terms/a/accountsreceivable.asp
+https://www.investopedia.com/terms/a/accountspayable.asp
+https://www.investopedia.com/terms/c/currentliabilities.asp
+https://www.investopedia.com/terms/d/double-entry.asp
+https://bench.co/blog/accounting/double-entry-accounting/
+https://bench.co/blog/accounting/balance-sheet/
+https://bench.co/blog/accounting/income-statement/
+https://bench.co/blog/accounting/cash-flow-statements/
+https://www.moderntreasury.com/journal/accounting-for-developers-part-i
+https://readhacker.news/s/5jx42

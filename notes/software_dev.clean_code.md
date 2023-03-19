@@ -1,8 +1,8 @@
 ---
 id: wqr6byvhhvd2qhde40pmfx5
-title: Clean_code
+title: Clean Code
 desc: ''
-updated: 1663099455558
+updated: 1679235510694
 created: 1663099429989
 ---
 

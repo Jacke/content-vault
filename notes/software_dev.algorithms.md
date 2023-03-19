@@ -2,7 +2,7 @@
 id: sw82ephvt5s6zzvdd2fe24t
 title: Algorithms
 desc: ''
-updated: 1664542238071
+updated: 1677335564162
 created: 1662306888854
 ---
 
@@ -11,6 +11,8 @@ created: 1662306888854
 [CS 168: The Modern Algorithmic Toolbox, Spring 2022](https://web.stanford.edu/class/cs168/index.html)
 
 ## Algorithms
+
+[Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 
 [Asymptotic Notations](https://learnxinyminutes.com/docs/asymptotic-notation/)
 
@@ -31,6 +33,8 @@ created: 1662306888854
 ## Visualization
 
 [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
+[SVD-Demo: Image Compression](http://timbaumann.info/svd-image-compression-demo/)
+[Red/Black Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
 # Distributed systems
 

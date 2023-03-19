@@ -2,7 +2,7 @@
 id: 35n1yewrv5sjp23pvrmpj1v
 title: Ml
 desc: ''
-updated: 1662572699191
+updated: 1667406304399
 created: 1662399439454
 ---
 
@@ -47,3 +47,5 @@ created: 1662399439454
 [Lagrangian Neural Networks](https://greydanus.github.io/2020/03/10/lagrangian-nns/)
 
 [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+
+[Stable Diffusion Updates](https://rentry.org/sdupdates2)

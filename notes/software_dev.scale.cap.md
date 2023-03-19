@@ -1,8 +1,8 @@
 ---
 id: yktscz4yey0oytqdphvuhfj
-title: Cap
+title: CAP Theorem
 desc: ''
-updated: 1663099394252
+updated: 1679235641059
 created: 1663099394252
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: 49mwaxvc4aomvxmu7o83sur
-title: Data_science
+title: Data Science
 desc: ''
-updated: 1662560545238
+updated: 1679235325642
 created: 1662399431941
 ---
 

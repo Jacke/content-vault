@@ -2,11 +2,16 @@
 id: qztqwcntrkonaglf5wxa85t
 title: Design
 desc: '🖼'
-updated: 1664392324352
+updated: 1676797986115
 created: 1662399374951
 ---
 
-## Tailwind
+# Concept
+
+## Interactivity
+[Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
+
+## CSS Tailwind
 
 [Cheatsheet](https://tailwindcomponents.com/cheatsheet/)
 
@@ -69,6 +74,8 @@ created: 1662399374951
 [One Design System Promo](https://www.figma.com/file/dQGra8qEG2obY3faf9SbFI/One-Design-System-Promo?node-id=1761%3A55750)
 
 [Druid Design System](https://druids.datadoghq.com/)
+
+[Open Design System](https://www.designsystems.com/open-design-systems/)
 
 ## Plugins
 

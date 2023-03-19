@@ -2,9 +2,13 @@
 id: 83td5ik2w0wpguiqlya5rp0
 title: JVM
 desc: 'Java Virtual Machine'
-updated: 1662572630329
+updated: 1668625595455
 created: 1662399740292
 ---
+
+## Internals
+[Bytecode Instructions](https://en.wikipedia.org/wiki/List_of_Java_bytecode_instructions)
+[Bytecode Specification](https://docs.oracle.com/javase/specs/jvms/se19/html/jvms-6.html)
 
 # JVM & Concurrency
 
