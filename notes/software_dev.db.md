@@ -2,7 +2,7 @@
 id: dptmeh66z1kw1fy52st5i0k
 title: DB
 desc: ''
-updated: 1663099522015
+updated: 1698414041800
 created: 1662399143243
 ---
 
@@ -10,7 +10,9 @@ created: 1662399143243
 
 # General
 
-### Kinds
+[How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/)
+
+## Kinds
 
 [The key differences between SQL and NoSQL databases](https://laptrinhx.com/the-key-differences-between-sql-and-nosql-databases-2430850351/)
 
@@ -48,12 +50,5 @@ created: 1662399143243
 
 [GitHub - zombodb/pgx: Build Postgres Extensions with Rust!](https://github.com/zombodb/pgx)
 
-# CSS
-
-[What's New Since CSS3 in 2015? | CSS-Tricks](https://css-tricks.com/whats-new-since-css3/)
-
-[How Flexbox Works](https://tiffanybbrown.com/2022/01/how-does-flexbox-work/index.html)
-
-[CSS Animations Tutorial: Complete Guide for Beginners](https://themeisle.com/blog/css-animations-tutorial/)
-
-[How to Favicon in 2022: Six files that fit most needs - Martian Chronicles](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
+## FoundationDB
+https://blog.the-pans.com/notes-on-the-foundationdb-paper/

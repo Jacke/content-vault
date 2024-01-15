@@ -2,7 +2,7 @@
 id: copjdg11oxwgzl66bleg81g
 title: Math
 desc: ''
-updated: 1676055807468
+updated: 1705333321556
 created: 1662399449806
 ---
 
@@ -22,6 +22,16 @@ created: 1662399449806
 
 [Explained from First Principles](https://explained-from-first-principles.com/)
 
+## Math Fun
+[Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)
+
+## Algebra
+[Algebra - Factoring Polynomials](https://tutorial.math.lamar.edu/Classes/Alg/Factoring.aspx)
+
 ## Linear algebra
 
 [Matrices and determinants](https://mathshistory.st-andrews.ac.uk/HistTopics/Matrices_and_determinants/)
+
+## Category Theory
+[Applied Category Theory Course](https://math.ucr.edu/home/baez/act_course/)
+[Category Theory Illustrated - index](https://abuseofnotation.github.io/category-theory-illustrated/)

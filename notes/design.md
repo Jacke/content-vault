@@ -2,7 +2,7 @@
 id: qztqwcntrkonaglf5wxa85t
 title: Design
 desc: '🖼'
-updated: 1676797986115
+updated: 1683037472039
 created: 1662399374951
 ---
 
@@ -39,7 +39,10 @@ created: 1662399374951
 
 [React - Geist UI](https://react.geist-ui.dev/en-us)
 
-## Framework
+## Icon
+[Iconhunt - Search for open source icons, 150.000+ icons.](https://www.iconhunt.site/)
+
+## Frameworks
 
 ### TODO
 
@@ -80,3 +83,13 @@ created: 1662399374951
 ## Plugins
 
 [GitHub - Spread0x/typeit: The most versatile JavaScript typewriter effect library on the planet.](https://github.com/Spread0x/typeit)
+
+## Gradients
+[Gradicol | Gradients & Website templates](https://gradicol.vercel.app/)
+
+## Colors
+[ColorMagic | AI Color Palette Generator](https://colormagic.app/)
+[Color Contrast Checker, analyser and color suggestions for WCAG & APCA](https://colorcontrast.app)
+
+## Inspiration
+[Mercury OS Design](https://www.mercuryos.com/architecture)

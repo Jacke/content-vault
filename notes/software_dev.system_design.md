@@ -2,7 +2,7 @@
 id: kmzx4ls8g24x1vkb7we1hvr
 title: System Design
 desc: ''
-updated: 1662310742119
+updated: 1681979837874
 created: 1662310707391
 ---
 
@@ -30,3 +30,6 @@ created: 1662310707391
 [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling)
 
 [GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#cap-theorem)
+
+## Complex systems
+[What complex systems can teach us about building software | Kevin Sookocheff](https://sookocheff.com/post/systems/what-complex-systems-can-teach-us-about-building-software/)

@@ -2,7 +2,7 @@
 id: vopa3fjqdrvoi06csdfu2xe
 title: Business
 desc: ''
-updated: 1666523238483
+updated: 1680953291426
 created: 1662399554484
 ---
 
@@ -33,3 +33,7 @@ https://bench.co/blog/accounting/income-statement/
 https://bench.co/blog/accounting/cash-flow-statements/
 https://www.moderntreasury.com/journal/accounting-for-developers-part-i
 https://readhacker.news/s/5jx42
+
+# Due dilligence
+
+[A Short 100-Question Diligence Checklist](https://www.thediff.co/archive/100-due-diligence-questions-checklist/)

@@ -2,7 +2,7 @@
 id: 17kxcqb4ljojsrzk72rk5za
 title: Asm
 desc: ''
-updated: 1671022527444
+updated: 1686235539968
 created: 1662399503720
 ---
 
@@ -31,3 +31,8 @@ created: 1662399503720
 ## Fun Computers
 
 [Nibbler 4 Bit CPU](https://www.bigmessowires.com/nibbler/)
+
+## Practices
+[Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
+[x86re | Reverse engineering for noobs](https://x86re.com/1.html)
+[x86re | Reverse engineering for noobs](https://x86re.com/2.html)

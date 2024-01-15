@@ -2,7 +2,7 @@
 id: g9k74q4anjv48wa7p424ylm
 title: JS
 desc: ''
-updated: 1663422829736
+updated: 1681662712167
 created: 1662399929244
 ---
 
@@ -12,6 +12,8 @@ created: 1662399929244
 
 
 ## JS
+
+[JavaScript Equality Table Game](https://eqeq.js.org/)
 
 [Values * JavaScript for impatient programmers (ES2022 edition)](https://exploringjs.com/impatient-js/ch_values.html)
 
