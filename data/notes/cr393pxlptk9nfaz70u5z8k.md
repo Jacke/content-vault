@@ -1,0 +1,6 @@
+
+# Theory
+
+[Music theory for nerds](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/)
+
+[Sound](https://ciechanow.ski/sound/)

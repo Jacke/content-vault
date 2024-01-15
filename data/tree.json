@@ -1,0 +1,1015 @@
+{
+  "roots": [
+    {
+      "key": "root",
+      "title": "Content Vault",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Content",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "wtyu6q43n3szreaed4nh02w",
+          "title": "Apps",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "pip8c7re5b98dmsnp8246pv",
+          "title": "Blockchain",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "vopa3fjqdrvoi06csdfu2xe",
+          "title": "Business",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "hvjj6bc9jpofv8qqom7rv55",
+              "title": "Ads",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kf4kqnbr5j2zyjf8yzvro5h",
+              "title": "Copywrite",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "rbyvu5swyse0uutc1vs0lws",
+          "title": "Cars",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "aiudhlxwyv7av6axq2c8i32",
+          "title": "Computer_science",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "49mwaxvc4aomvxmu7o83sur",
+          "title": "Data Science",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "g9g9fnx0jdmbfrdykh1vmrf",
+              "title": "Hadoop",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "copjdg11oxwgzl66bleg81g",
+              "title": "Math",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "35n1yewrv5sjp23pvrmpj1v",
+              "title": "Ml",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "qztqwcntrkonaglf5wxa85t",
+          "title": "Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ihbak5e7ue40vr7vcu6qbrc",
+              "title": "Home",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "87gxpbo9z9nig8qg07ud7i6",
+          "title": "Games",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cf9snv892lcy4co9oe0f3x4",
+          "title": "Hardware",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "llyr89k24wyonapc1r45lxu",
+              "title": "Architecture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "17kxcqb4ljojsrzk72rk5za",
+              "title": "Asm",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "j72jo1464igr17ozyifcosj",
+              "title": "Networks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "dxwd5gga585h8x70d34wo05",
+          "title": "Health",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "7r19ocenohkhv5aqltxrjtr",
+              "title": "Brain",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "iqi9yclrq5k7a937ipxyhww",
+          "title": "How It Works",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "55o3fpy3ms77quhs0vo8axx",
+          "title": "Information",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "cr393pxlptk9nfaz70u5z8k",
+          "title": "Music",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "tj6u64qj0sdlusp7mt1p2hi",
+          "title": "Personal",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "z2cblkjfmm774lf1uadn21k",
+              "title": "Interaction",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "trc6cw7vev5i3e5wrhjb6kz",
+          "title": "Physics",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "zu4952meliulj41tet0xlug",
+              "title": "Rocket Science",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "5nrh3mcyrtfirk8u619rr6x",
+          "title": "Psychology",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "xir256kry6mojxxmm9ojw2t",
+              "title": "Mindset",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "f3t70txdaackgedplykj699",
+                  "title": "Fail Fast",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "r6uu91l1zilit4nzpvs2gxo",
+                  "title": "Pragmatism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "lzuhtdfgh1kl1wqghmuvbrn",
+                  "title": "Work Life Balance",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "1f5wqcxs5w8qk3lpofhshd8",
+              "title": "Relationships",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "rh2ecrw9pbao4q56496qk4v",
+          "title": "Retro",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "hqzwb36ii5mgxy2xww9yqy5",
+          "title": "Software Development",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Content",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "n6xmzsd94r9wkuovgmttdbk",
+              "title": "3d",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "sw82ephvt5s6zzvdd2fe24t",
+              "title": "Algorithms",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "uoeczozh90dieh7v1eqypr0",
+                  "title": "Leetcode",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "kau32amvat0vvsdmda0ygz3",
+              "title": "API",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "t3lxqot83igg0xe8n038uru",
+              "title": "Architecture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "715yn8gthmqsgh3a5wgspmq",
+              "title": "Auth",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "8r8ap4z4woyee0ofmeb0tbm",
+              "title": "Backend",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "11mnkve034y72qsb5tv3dv0",
+                  "title": "Go",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "s1xbg1z5mpni8ggirjopvy3",
+                  "title": "Haskell",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "83td5ik2w0wpguiqlya5rp0",
+                  "title": "JVM",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "ujxq8p0ehobt64pkutci2cs",
+                      "title": "Java",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Content",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "06n4kabn4pm1yjmprwykcij",
+                      "title": "Scala",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Content",
+                      "navExclude": false,
+                      "children": [
+                        {
+                          "key": "n0dlszh240law45jq2zdszz",
+                          "title": "Learn",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Content",
+                          "navExclude": false,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "key": "d80g2rvztcw1na1n2as6onb",
+                      "title": "Streams",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Content",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "imq79mn1avn43amxnwry64y",
+                  "title": "Rust",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "yebuqbhpll3ssauibjoj7e9",
+                  "title": "Spring",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "y3bqu46hun5jko5af0mqpfq",
+              "title": "Books",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "b5jckksdfc4oun3k0f5ciqu",
+              "title": "Build X",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "wqr6byvhhvd2qhde40pmfx5",
+              "title": "Clean Code",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "yp5s6px8hs0mxok82aaqqft",
+              "title": "Crypto",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "c34cy1l1slj9wyuiudvwzh9",
+                  "title": "SSL",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "7rugi1ph1miloq2z3f6hzxs",
+              "title": "Data Structure",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "dptmeh66z1kw1fy52st5i0k",
+              "title": "DB",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "i3116qdkkxorc6nkm754196",
+                  "title": "PG",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "55p9g33ekht56va79m5zs6a",
+                  "title": "SQL",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "w0jwnxlc7iffla2kmhysovb",
+              "title": "DevOps",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "w0ze1095ag1abq491md59nz",
+                  "title": "AWS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "yrgr894j6snika72lg6ohbj",
+                  "title": "k8s",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "22d4gspnngwbbswk7wq83ho",
+              "title": "Frontend",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "3al5whyypz1bt1ff1a0hyc7",
+                  "title": "CSS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "g9k74q4anjv48wa7p424ylm",
+                  "title": "JS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "vl8v5te0niozcfbb965o1h5",
+                  "title": "React",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "7zg3z71pu2f9jmjmcr2l8s6",
+                  "title": "TS",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "lphcoh8h9qvebxijmvhz4a4",
+              "title": "Git",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "k21ch9npqi17e1hmm491o81",
+              "title": "Interview",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "i4ytyksuhisb4wbxsegs1m4",
+              "title": "Lang",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "ssckslokqmst9pbixzzh0w1",
+                  "title": "C",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "esc6zzbcwpwrcmul9pwxky9",
+              "title": "Learn",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "ovcwbiwi8zdhji7ghpu6cgs",
+                  "title": "Learning plans By Siraj",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "h5vo91x603vfrsu7eyw1vv4",
+              "title": "Media",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "217quvo0a7x07phnuqig1uc",
+                  "title": "Encodings",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "8786jywv8yfco6u7iq55o8n",
+              "title": "Mq",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "fblbpu9kvi0x52w24yi8wyv",
+                  "title": "Kafka",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "5scg9qintmb5hisfsa3cke7",
+              "title": "Net",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1ir3aq28tavcil328odlgbm",
+              "title": "Optimisation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "69hsvhx2xmnkniy9ajt2ewy",
+              "title": "OS",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "nyhaxhwhmy31303oxnz0z03",
+                  "title": "Linux",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "rds8azzweuikxqu25i3jrpn",
+                  "title": "Virtualization",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "3g8ejmb8q6pftjtkdye511z",
+              "title": "Perf",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "v72r5e6103242xrmh5quuer",
+              "title": "Scale",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "yktscz4yey0oytqdphvuhfj",
+                  "title": "CAP Theorem",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "zqtzize7z5q3oala0fa586f",
+              "title": "Security",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "qgu19nbtblwvg70c8wpwrmr",
+                  "title": "Firewall",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "yijlm99qjur6yiml33zfvfq",
+              "title": "Skill Playground",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "f66sijp9a4qd1bjqu6qo944",
+              "title": "Styleguide",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kmzx4ls8g24x1vkb7we1hvr",
+              "title": "System Design",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "idy1bclj2df50ebmlieubdr",
+              "title": "Tools",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9grqmwyddhnrbhttkgvf7yi",
+                  "title": "Vim",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "4fp06vnowyhwkf4tm1tozr1",
+              "title": "Unix",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "17ctv45m0coz7hhyi8iwiot",
+                  "title": "Filesystems",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "6ltucw4nc4pvxqi6edxupt0",
+                  "title": "Shell",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Content",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "y894kjg0hx7jy5du8ozzuhx",
+              "title": "Unsorted",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Content",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "root": null,
+    "tj6u64qj0sdlusp7mt1p2hi": "root",
+    "z2cblkjfmm774lf1uadn21k": "tj6u64qj0sdlusp7mt1p2hi",
+    "hqzwb36ii5mgxy2xww9yqy5": "root",
+    "4fp06vnowyhwkf4tm1tozr1": "hqzwb36ii5mgxy2xww9yqy5",
+    "6ltucw4nc4pvxqi6edxupt0": "4fp06vnowyhwkf4tm1tozr1",
+    "17ctv45m0coz7hhyi8iwiot": "4fp06vnowyhwkf4tm1tozr1",
+    "idy1bclj2df50ebmlieubdr": "hqzwb36ii5mgxy2xww9yqy5",
+    "9grqmwyddhnrbhttkgvf7yi": "idy1bclj2df50ebmlieubdr",
+    "v72r5e6103242xrmh5quuer": "hqzwb36ii5mgxy2xww9yqy5",
+    "yktscz4yey0oytqdphvuhfj": "v72r5e6103242xrmh5quuer",
+    "8786jywv8yfco6u7iq55o8n": "hqzwb36ii5mgxy2xww9yqy5",
+    "fblbpu9kvi0x52w24yi8wyv": "8786jywv8yfco6u7iq55o8n",
+    "h5vo91x603vfrsu7eyw1vv4": "hqzwb36ii5mgxy2xww9yqy5",
+    "217quvo0a7x07phnuqig1uc": "h5vo91x603vfrsu7eyw1vv4",
+    "esc6zzbcwpwrcmul9pwxky9": "hqzwb36ii5mgxy2xww9yqy5",
+    "ovcwbiwi8zdhji7ghpu6cgs": "esc6zzbcwpwrcmul9pwxky9",
+    "i4ytyksuhisb4wbxsegs1m4": "hqzwb36ii5mgxy2xww9yqy5",
+    "ssckslokqmst9pbixzzh0w1": "i4ytyksuhisb4wbxsegs1m4",
+    "y894kjg0hx7jy5du8ozzuhx": "hqzwb36ii5mgxy2xww9yqy5",
+    "kmzx4ls8g24x1vkb7we1hvr": "hqzwb36ii5mgxy2xww9yqy5",
+    "f66sijp9a4qd1bjqu6qo944": "hqzwb36ii5mgxy2xww9yqy5",
+    "yijlm99qjur6yiml33zfvfq": "hqzwb36ii5mgxy2xww9yqy5",
+    "zqtzize7z5q3oala0fa586f": "hqzwb36ii5mgxy2xww9yqy5",
+    "qgu19nbtblwvg70c8wpwrmr": "zqtzize7z5q3oala0fa586f",
+    "3g8ejmb8q6pftjtkdye511z": "hqzwb36ii5mgxy2xww9yqy5",
+    "69hsvhx2xmnkniy9ajt2ewy": "hqzwb36ii5mgxy2xww9yqy5",
+    "rds8azzweuikxqu25i3jrpn": "69hsvhx2xmnkniy9ajt2ewy",
+    "nyhaxhwhmy31303oxnz0z03": "69hsvhx2xmnkniy9ajt2ewy",
+    "1ir3aq28tavcil328odlgbm": "hqzwb36ii5mgxy2xww9yqy5",
+    "5scg9qintmb5hisfsa3cke7": "hqzwb36ii5mgxy2xww9yqy5",
+    "k21ch9npqi17e1hmm491o81": "hqzwb36ii5mgxy2xww9yqy5",
+    "lphcoh8h9qvebxijmvhz4a4": "hqzwb36ii5mgxy2xww9yqy5",
+    "22d4gspnngwbbswk7wq83ho": "hqzwb36ii5mgxy2xww9yqy5",
+    "7zg3z71pu2f9jmjmcr2l8s6": "22d4gspnngwbbswk7wq83ho",
+    "vl8v5te0niozcfbb965o1h5": "22d4gspnngwbbswk7wq83ho",
+    "g9k74q4anjv48wa7p424ylm": "22d4gspnngwbbswk7wq83ho",
+    "3al5whyypz1bt1ff1a0hyc7": "22d4gspnngwbbswk7wq83ho",
+    "w0jwnxlc7iffla2kmhysovb": "hqzwb36ii5mgxy2xww9yqy5",
+    "yrgr894j6snika72lg6ohbj": "w0jwnxlc7iffla2kmhysovb",
+    "w0ze1095ag1abq491md59nz": "w0jwnxlc7iffla2kmhysovb",
+    "dptmeh66z1kw1fy52st5i0k": "hqzwb36ii5mgxy2xww9yqy5",
+    "55p9g33ekht56va79m5zs6a": "dptmeh66z1kw1fy52st5i0k",
+    "i3116qdkkxorc6nkm754196": "dptmeh66z1kw1fy52st5i0k",
+    "7rugi1ph1miloq2z3f6hzxs": "hqzwb36ii5mgxy2xww9yqy5",
+    "yp5s6px8hs0mxok82aaqqft": "hqzwb36ii5mgxy2xww9yqy5",
+    "c34cy1l1slj9wyuiudvwzh9": "yp5s6px8hs0mxok82aaqqft",
+    "wqr6byvhhvd2qhde40pmfx5": "hqzwb36ii5mgxy2xww9yqy5",
+    "b5jckksdfc4oun3k0f5ciqu": "hqzwb36ii5mgxy2xww9yqy5",
+    "y3bqu46hun5jko5af0mqpfq": "hqzwb36ii5mgxy2xww9yqy5",
+    "8r8ap4z4woyee0ofmeb0tbm": "hqzwb36ii5mgxy2xww9yqy5",
+    "yebuqbhpll3ssauibjoj7e9": "8r8ap4z4woyee0ofmeb0tbm",
+    "imq79mn1avn43amxnwry64y": "8r8ap4z4woyee0ofmeb0tbm",
+    "83td5ik2w0wpguiqlya5rp0": "8r8ap4z4woyee0ofmeb0tbm",
+    "d80g2rvztcw1na1n2as6onb": "83td5ik2w0wpguiqlya5rp0",
+    "06n4kabn4pm1yjmprwykcij": "83td5ik2w0wpguiqlya5rp0",
+    "n0dlszh240law45jq2zdszz": "06n4kabn4pm1yjmprwykcij",
+    "ujxq8p0ehobt64pkutci2cs": "83td5ik2w0wpguiqlya5rp0",
+    "s1xbg1z5mpni8ggirjopvy3": "8r8ap4z4woyee0ofmeb0tbm",
+    "11mnkve034y72qsb5tv3dv0": "8r8ap4z4woyee0ofmeb0tbm",
+    "715yn8gthmqsgh3a5wgspmq": "hqzwb36ii5mgxy2xww9yqy5",
+    "t3lxqot83igg0xe8n038uru": "hqzwb36ii5mgxy2xww9yqy5",
+    "kau32amvat0vvsdmda0ygz3": "hqzwb36ii5mgxy2xww9yqy5",
+    "sw82ephvt5s6zzvdd2fe24t": "hqzwb36ii5mgxy2xww9yqy5",
+    "uoeczozh90dieh7v1eqypr0": "sw82ephvt5s6zzvdd2fe24t",
+    "n6xmzsd94r9wkuovgmttdbk": "hqzwb36ii5mgxy2xww9yqy5",
+    "rh2ecrw9pbao4q56496qk4v": "root",
+    "5nrh3mcyrtfirk8u619rr6x": "root",
+    "1f5wqcxs5w8qk3lpofhshd8": "5nrh3mcyrtfirk8u619rr6x",
+    "xir256kry6mojxxmm9ojw2t": "5nrh3mcyrtfirk8u619rr6x",
+    "lzuhtdfgh1kl1wqghmuvbrn": "xir256kry6mojxxmm9ojw2t",
+    "r6uu91l1zilit4nzpvs2gxo": "xir256kry6mojxxmm9ojw2t",
+    "f3t70txdaackgedplykj699": "xir256kry6mojxxmm9ojw2t",
+    "trc6cw7vev5i3e5wrhjb6kz": "root",
+    "zu4952meliulj41tet0xlug": "trc6cw7vev5i3e5wrhjb6kz",
+    "cr393pxlptk9nfaz70u5z8k": "root",
+    "55o3fpy3ms77quhs0vo8axx": "root",
+    "iqi9yclrq5k7a937ipxyhww": "root",
+    "dxwd5gga585h8x70d34wo05": "root",
+    "7r19ocenohkhv5aqltxrjtr": "dxwd5gga585h8x70d34wo05",
+    "cf9snv892lcy4co9oe0f3x4": "root",
+    "j72jo1464igr17ozyifcosj": "cf9snv892lcy4co9oe0f3x4",
+    "17kxcqb4ljojsrzk72rk5za": "cf9snv892lcy4co9oe0f3x4",
+    "llyr89k24wyonapc1r45lxu": "cf9snv892lcy4co9oe0f3x4",
+    "87gxpbo9z9nig8qg07ud7i6": "root",
+    "qztqwcntrkonaglf5wxa85t": "root",
+    "ihbak5e7ue40vr7vcu6qbrc": "qztqwcntrkonaglf5wxa85t",
+    "49mwaxvc4aomvxmu7o83sur": "root",
+    "35n1yewrv5sjp23pvrmpj1v": "49mwaxvc4aomvxmu7o83sur",
+    "copjdg11oxwgzl66bleg81g": "49mwaxvc4aomvxmu7o83sur",
+    "g9g9fnx0jdmbfrdykh1vmrf": "49mwaxvc4aomvxmu7o83sur",
+    "aiudhlxwyv7av6axq2c8i32": "root",
+    "rbyvu5swyse0uutc1vs0lws": "root",
+    "vopa3fjqdrvoi06csdfu2xe": "root",
+    "kf4kqnbr5j2zyjf8yzvro5h": "vopa3fjqdrvoi06csdfu2xe",
+    "hvjj6bc9jpofv8qqom7rv55": "vopa3fjqdrvoi06csdfu2xe",
+    "pip8c7re5b98dmsnp8246pv": "root",
+    "wtyu6q43n3szreaed4nh02w": "root"
+  }
+}

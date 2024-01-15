@@ -1,0 +1,68 @@
+<h1 id="cap-theorem"><a aria-hidden="true" class="anchor-heading icon-link" href="#cap-theorem"></a>CAP Theorem</h1>
+<h1 id="cap-theorem-1"><a aria-hidden="true" class="anchor-heading icon-link" href="#cap-theorem-1"></a>CAP Theorem</h1>
+<h1 id="what-is-cap-theorem"><a aria-hidden="true" class="anchor-heading icon-link" href="#what-is-cap-theorem"></a>What is CAP theorem?</h1>
+<p>CAP Theorem has become the holy grail of distributed system design in recent years. CAP theorem states that any distributed computer system can support only any two among consistency, availability, and partition tolerance.</p>
+<p>Let's explore the meaning of these properties in a little more detail.</p>
+<h1 id="consistency"><a aria-hidden="true" class="anchor-heading icon-link" href="#consistency"></a>Consistency</h1>
+<p>Consistency implies the following:</p>
+<ul>
+<li>When data is partitioned (distributed), all the nodes see the same data at a given time, and this should be true for all times</li>
+<li>When queried, each node will return the latest data. If not, the system will just error out.</li>
+<li>Consistency is achieved by updating several nodes before allowing further reads.</li>
+</ul>
+<h1 id="availability"><a aria-hidden="true" class="anchor-heading icon-link" href="#availability"></a>Availability</h1>
+<p>Availability implies the following:</p>
+<ul>
+<li>At all times, every request being fired at the system generates a valid response.</li>
+<li>While doing this, it doesn't mean that every request will receive a response with the latest information (data). Availability is achieved by replicating the data across different servers.</li>
+</ul>
+<h1 id="partition-tolerance"><a aria-hidden="true" class="anchor-heading icon-link" href="#partition-tolerance"></a>Partition Tolerance</h1>
+<p>Partition tolerance implies the following:</p>
+<ul>
+<li>The system is able to perform continuously even if a network failure or data loss occur.</li>
+<li>Partition tolerance can be achieved by replicating data and system functionality sufficiently across a cluster of nodes and network. The redundancy introduced ensures the system as a whole continues to function even in situations where a node or a set of nodes cannot communicate with each other.</li>
+</ul>
+<h1 id="system-classification-based-on-cap-theorem"><a aria-hidden="true" class="anchor-heading icon-link" href="#system-classification-based-on-cap-theorem"></a>System classification based on CAP theorem</h1>
+<p>Because only two of the three properties stated by CAP can be guaranteed at any time, systems are usually classified into three types under CAP Theorem:</p>
+<ul>
+<li><strong>CA System</strong>: Data is consistent between all nodes, and you can read/write from any node, while you cannot afford to let your network go down. (For example: RDBMS like MSSQL Server, Oracle and columnar relational stores)</li>
+<li><strong>CP System</strong>: Data is consistent and maintains tolerance for partitioning and preventing data going out of sync. (For example: Google Big Table, MongoDB (document oriented), and HBase (columnar))</li>
+<li><strong>AP System</strong>: Nodes are online always, but they may not get you the latest data; however, they sync whenever the lines are up. (For example: CouchDB (document oriented), and Cassandra (columnar))</li>
+</ul>
+<p><img src="https://i2.wp.com/www.acodersjourney.com/wp-content/uploads/2018/07/CAP-Theorem.jpg?w=1052&#x26;ssl=1" alt="https://i2.wp.com/www.acodersjourney.com/wp-content/uploads/2018/07/CAP-Theorem.jpg?w=1052&#x26;ssl=1"></p>
+<h1 id="cap-theorem-in-action"><a aria-hidden="true" class="anchor-heading icon-link" href="#cap-theorem-in-action"></a>CAP theorem in action</h1>
+<p>In real life distributed systems, network partition will happen and we need to ensure that when network partition does happen, the system as a whole is still functional. So, really, our choice boils down to either Consistency Guarantee or Availability guarantee in most cases.</p>
+<p><img src="https://i1.wp.com/www.acodersjourney.com/wp-content/uploads/2018/07/CAP-Theorem-Network-Partition.jpg?w=1462&#x26;ssl=1" alt="https://i1.wp.com/www.acodersjourney.com/wp-content/uploads/2018/07/CAP-Theorem-Network-Partition.jpg?w=1462&#x26;ssl=1"></p>
+<p>A row is updated in <strong>Node 1</strong> as shown in the preceding figure. Before <strong>Node 3</strong> receives the update propagation, it gets a request for the same row. Now <strong>Node 3</strong> has two choices--either provide the copy of the row it has (which may be stale) or deny the request. In the first case, it is compromising on consistency and in the second case, on availability.</p>
+<h1 id="how-to-use-cap-theorem-during-system-design-interview"><a aria-hidden="true" class="anchor-heading icon-link" href="#how-to-use-cap-theorem-during-system-design-interview"></a>How to use CAP theorem during system design interview?</h1>
+<p>As you saw in the previous section, different types of data stores provides different types of guarantees - some provide consistency guarantees while some provide availability guarantees.</p>
+<p>During a system design interview, you should always clarify what type of guarantee the interviewer is looking for in the system under discussion. For example, if you're building a news feed like twitter- it might have the following requirements:</p>
+<ul>
+<li>Highly available</li>
+<li>Consistency can take a hit in favor of availability, if a news feed does not show up for a little while, it should be fine.</li>
+</ul>
+<p>With the above requirements, you immediately know that you need an AP system, that is, a system which offers availability during a network partition. So you can choose a NoSQL solution like Cassandra or Dynamo DB.</p>
+<p>Please find below a handy cheat sheet for choosing the right data store for your system.</p>
+<h1 id="ap-systems"><a aria-hidden="true" class="anchor-heading icon-link" href="#ap-systems"></a>AP Systems</h1>
+<ul>
+<li>Dynamo DB</li>
+<li>Voldemort</li>
+<li>Cassandra</li>
+<li>SimpleDB</li>
+<li>CouchDB</li>
+<li>Riak</li>
+</ul>
+<h1 id="cp-systems"><a aria-hidden="true" class="anchor-heading icon-link" href="#cp-systems"></a>CP Systems</h1>
+<ul>
+<li>Google BigTable</li>
+<li>Hbase</li>
+<li>MongoDB</li>
+<li>MemcacheDB</li>
+<li>Redis</li>
+</ul>
+<h1 id="ca-systems"><a aria-hidden="true" class="anchor-heading icon-link" href="#ca-systems"></a>CA Systems</h1>
+<ul>
+<li>RDBMS( MySQL, MSSQL Server)</li>
+</ul>
+<h1 id="final-thoughts-on-cap-theorem"><a aria-hidden="true" class="anchor-heading icon-link" href="#final-thoughts-on-cap-theorem"></a>Final thoughts on CAP theorem</h1>
+<p>Each one of the three properties, namely, <strong><em>Availability, Consistency and Partition Tolerance</em></strong>, should not be viewed as a binary off/on switch , but rather as tunable parameters when you're designing a distributed system. That is, if you opt for more consistency, you'll need to make your availability or partition tolerance requirements little lax. Conversely, you can tune up your availability if you are prepared to sacrifice some consistency or network partition tolerance.</p>
